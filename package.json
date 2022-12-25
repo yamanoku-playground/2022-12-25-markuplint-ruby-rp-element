@@ -1,0 +1,15 @@
+{
+  "name": "2022-12-25-markuplint-ruby-rp-element",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "html:lint": "markuplint index.html"
+  },
+  "dependencies": {
+    "markuplint": "3.0.0"
+  },
+  "engines": {
+    "node": "19.x"
+  }
+}
