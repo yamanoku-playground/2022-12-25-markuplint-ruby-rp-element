@@ -7,7 +7,7 @@
     "html:lint": "markuplint index.html"
   },
   "dependencies": {
-    "markuplint": "3.0.0"
+    "markuplint": "2.11.4"
   },
   "engines": {
     "node": "19.x"
